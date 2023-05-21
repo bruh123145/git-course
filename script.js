@@ -1,0 +1,1 @@
+document.bode.innerHTML = '<h1>Hello from JavaScript</h1>'
